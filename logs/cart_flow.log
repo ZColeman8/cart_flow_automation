@@ -1,0 +1,40 @@
+2025-07-22 14:40:40,888 - INFO - Starting cart flow test
+2025-07-22 14:40:41,358 - INFO - Entering username
+2025-07-22 14:40:41,672 - DEBUG - Username used: standard_user
+2025-07-22 14:40:41,673 - INFO - Entering password
+2025-07-22 14:40:41,788 - DEBUG - Password entered
+2025-07-22 14:40:41,789 - INFO - Clicking Sign in
+2025-07-22 14:40:41,960 - DEBUG - Log in button clicked
+2025-07-22 14:40:41,961 - INFO - Adding 'Sauce Labs Backpack' to cart
+2025-07-22 14:40:42,072 - DEBUG - 'Sauce Labs Backpack' added to cart
+2025-07-22 14:40:42,073 - DEBUG - Product added: Sauce Labs Backpack
+2025-07-22 14:40:42,073 - INFO - Navigating to cart
+2025-07-22 14:40:42,305 - DEBUG - Clicked cart icon
+2025-07-22 14:40:52,542 - WARNING - Product 'Sauce Labs Backpack' is NOT found in the cart.
+2025-07-22 14:58:26,923 - INFO - Starting cart flow test
+2025-07-22 14:58:27,441 - INFO - Entering username
+2025-07-22 14:58:27,743 - DEBUG - Username used: standard_user
+2025-07-22 14:58:27,743 - INFO - Entering password
+2025-07-22 14:58:27,862 - DEBUG - Password entered
+2025-07-22 14:58:27,863 - INFO - Clicking Sign in
+2025-07-22 14:58:28,055 - DEBUG - Log in button clicked
+2025-07-22 14:58:28,056 - INFO - Adding 'Sauce Labs Backpack' to cart
+2025-07-22 14:58:28,169 - DEBUG - 'Sauce Labs Backpack' added to cart
+2025-07-22 14:58:28,169 - DEBUG - Product added: Sauce Labs Backpack
+2025-07-22 14:58:28,169 - INFO - Navigating to cart
+2025-07-22 14:58:28,255 - DEBUG - Clicked cart icon
+2025-07-22 14:58:28,266 - INFO - Product 'Sauce Labs Backpack' is present in the cart.
+2025-07-22 14:58:28,267 - INFO - Clicking the checkout button
+2025-07-22 14:58:28,361 - DEBUG - Checkout button clicked
+2025-07-22 14:58:28,362 - INFO - Entering first name
+2025-07-22 14:58:28,467 - DEBUG - First name entered: Zach
+2025-07-22 14:58:28,467 - INFO - Entering last name
+2025-07-22 14:58:28,566 - DEBUG - Last name entered: Coleman
+2025-07-22 14:58:28,566 - INFO - Entering zipcode
+2025-07-22 14:58:28,659 - DEBUG - Zipcode entered: 12345
+2025-07-22 14:58:28,660 - INFO - Clicking continue button
+2025-07-22 14:58:28,749 - DEBUG - Continue button clicked
+2025-07-22 14:58:28,749 - DEBUG - Checkout details: Zach Coleman, 12345
+2025-07-22 14:58:28,749 - INFO - Finalizing checkout
+2025-07-22 14:58:28,834 - DEBUG - Checkout finalized
+2025-07-22 14:58:28,870 - INFO - Test completed successfully

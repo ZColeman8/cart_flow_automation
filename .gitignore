@@ -1,0 +1,24 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+env/
+venv/
+
+# Test & build artifacts
+.pytest_cache/
+reports/*
+screenshots/*
+assets/
+
+!reports/.gitkeep
+!screenshots/.gitkeep
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
